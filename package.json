@@ -1,0 +1,19 @@
+{
+  "name": "tecnicas-programacao-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node trilha1/fase1.ts",
+    "fase1": "ts-node trilha1/fase1.ts",
+    "fase2": "ts-node trilha1/fase2.ts",
+    "fase3": "ts-node trilha1/fase3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
