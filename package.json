@@ -6,13 +6,17 @@
     "dev": "ts-node trilha1/fase1.ts",
     "fase1": "ts-node trilha1/fase1.ts",
     "fase2": "ts-node trilha1/fase2.ts",
-    "fase3": "ts-node trilha1/fase3.ts"
+    "fase3": "ts-node trilha1/fase3.ts",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
